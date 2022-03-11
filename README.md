@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 I'm currently freelancing while looking for a full-time (remote) job 🙂 
 
 - 🔭 I've been working with **[Bootstrap](https://getbootstrap.com/)** | **[VueJS](https://vuejs.org/)** | **[NuxtJS](https://nuxtjs.org/)**.
-- 🌱 I’m currently diving in **[ReactJS](https://reactjs.org/)**.
+- 🌱 I’m currently diving into **[ReactJS](https://reactjs.org/)**.
 
 Feel free to contact me for any collaboration opportunity 😉
 
