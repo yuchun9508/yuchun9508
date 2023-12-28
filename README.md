@@ -1,5 +1,5 @@
 ### Hello 👋 
-### My name is Chun, a Front-end Developer from Taiwan 🇹🇼 
+### I'm Chun, a Frontend Developer based in Taipei, Taiwan 🇹🇼 
 ---
 
 <!--
@@ -17,11 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently freelancing while looking for a full-time (remote) job 🙂 
+- 🛠 Tools & Methodologies: `ReactJS` | `VueJS` | `TypeScript` | `styled-components` | `BEM` | `Atomic CSS`.
+- 🔭 I’m recently exploring Web ML with `TensorFlowJS`.
+- 🌱 I’m currently learning `NodeJS`.
 
-- 🔭 I've been working with **[Bootstrap](https://getbootstrap.com/)** | **[VueJS](https://vuejs.org/)** | **[NuxtJS](https://nuxtjs.org/)**.
-- 🌱 I’m currently diving into **[ReactJS](https://reactjs.org/)**.
-
-Feel free to contact me for any collaboration opportunity 😉
+Feel free to connect or reach out for any collaboration opportunity 😉
 
 **[LinkedIn](https://www.linkedin.com/in/yuchunwu/)** | **<yuchun9508@gmail.com>**
