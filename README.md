@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🔭 I’m recently exploring Web ML with `TensorFlowJS`.
 - 🌱 I’m currently learning `NodeJS`.
 
-Open for a new job 👉 **[My Latest Resume](https://drive.google.com/file/d/10-Xpcrgh-nQb_k_SNbvik1UbdOs2FO40/view?usp=sharing)**
+Open for a new job 👉 **[My Latest Resume](https://drive.google.com/file/d/1W2Dte3mrepkzOhWetaQYZIS0E5SR-p1e/view?usp=sharing)**
 
 Feel free to connect or reach out for any collaboration opportunity 😉
 
