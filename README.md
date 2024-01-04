@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 -->
 
 - 🛠 Tools & Methodologies: `ReactJS` | `VueJS` | `TypeScript` | `styled-components` | `BEM` | `Atomic CSS`.
-- 🔭 I’m recently exploring Web ML with `TensorFlowJS`.
 - 🌱 I’m currently learning `NodeJS`.
 
 Open for a new job 👉 **[My Latest Resume](https://drive.google.com/file/d/1W2Dte3mrepkzOhWetaQYZIS0E5SR-p1e/view?usp=sharing)**
