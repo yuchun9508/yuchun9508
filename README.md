@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 - 🛠 Tools & Methodologies: `ReactJS` | `VueJS` | `TypeScript` | `styled-components` | `BEM` | `Atomic CSS`.
 - 🌱 I’m currently learning `NodeJS`.
 
-Open for a new job 👉 **[My Latest Resume](https://drive.google.com/file/d/1W2Dte3mrepkzOhWetaQYZIS0E5SR-p1e/view?usp=sharing)**
+Open for a new job 👉 
+**[My Latest Resume](https://drive.google.com/file/d/1W2Dte3mrepkzOhWetaQYZIS0E5SR-p1e/view?usp=sharing)** |
+**[My Portfolio](https://docs.google.com/presentation/d/1o7CfHTDPCmgXnqjxDAfHT2qAYhp7l4ZL-xBqbe48_F8/edit?usp=sharing)**
 
 Feel free to connect or reach out for any collaboration opportunity 😉
 
