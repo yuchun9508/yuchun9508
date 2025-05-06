@@ -1,5 +1,5 @@
 ### Hello 👋 
-### I'm Chun, a Frontend Developer based in Taipei, Taiwan 🇹🇼 
+### I'm Yuchun, a Frontend Developer based in Taipei, Taiwan 🇹🇼 
 ---
 
 <!--
@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning `NodeJS`.
 
 Open for a new job 👉 
-**[My Latest Resume](https://drive.google.com/file/d/1sKi3_ChIF-4ygHBzC9Zs0F5AZJCWr9Q_/view?usp=sharing)** |
-**[My Portfolio](https://docs.google.com/presentation/d/1o7CfHTDPCmgXnqjxDAfHT2qAYhp7l4ZL-xBqbe48_F8/edit?usp=sharing)**
+**[My Latest Resume](https://drive.google.com/file/d/1p8_dQp3OkYiiP8viFgzsy-c9tJCP5jv_/view?usp=sharing)**
 
 Feel free to connect or reach out for any collaboration opportunity 😉
 
